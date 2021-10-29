@@ -2,20 +2,22 @@
 
 Community Shared Links
 
+Private AKS Build
 https://atouati.com/posts/2020/03/aks-private-cluster/
+https://itnext.io/create-a-fully-private-aks-infrastructure-with-terraform-e92358f0bf65
+https://docs.microsoft.com/en-us/azure/aks/private-clusters
 
-https://atouati.com/posts/2020/02/securing-aks-clusters-and-applications/
-
+Uptime SLA
 https://docs.microsoft.com/en-us/azure/aks/uptime-sla
 
+AKS Security
+https://atouati.com/posts/2020/02/securing-aks-clusters-and-applications/
 https://docs.microsoft.com/en-us/azure/private-link/private-link-service-overview
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
 https://docs.microsoft.com/en-us/azure/aks/egress-outboundtype#deploy-a-cluster-with-outbound-type-of-udr-and-azure-firewall
-
-https://itnext.io/create-a-fully-private-aks-infrastructure-with-terraform-e92358f0bf65
-https://docs.microsoft.com/en-us/azure/aks/private-clusters
 https://docs.microsoft.com/en-us/azure/aks/use-network-policies
 
+Ingress Controller
 https://docs.microsoft.com/en-us/azure/aks/ingress-tls
 
 Role binding on AKS
@@ -28,5 +30,4 @@ AKV2K8s
 https://akv2k8s.io/
 
 Sunbet Calculator
-
 https://mxtoolbox.com/subnetcalculator.aspx

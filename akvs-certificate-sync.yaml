@@ -1,0 +1,15 @@
+apiVersion: spv.no/v2beta1
+kind: AzureKeyVaultSecret
+metadata:
+  name: certificate-sync
+  namespace: tst-app
+spec:
+  vault:
+    name: testappkveastus2 # name of key vault
+    object:
+      name: abc-com
+      type: certificate
+  output:
+    secret:
+      name: tls-secret # kubernetes secret name
+      type: kubernetes.io/tls # kubernetes secret type

@@ -1,2 +1,6 @@
 Secret upload
 az keyvault secret set --vault-name testappkveastus2 -n testapp-secret-akv -f '/home/abc/tstapp-secret.txt'
+
+Install Ingress Controller
+helm install nginx-ingress ingress-nginx/ingress-nginx --namespace ingress-controller  -f ingress-controller.yaml
+

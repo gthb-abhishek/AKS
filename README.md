@@ -4,9 +4,9 @@ Community Shared Links
 
 Private AKS Build 
 
-https://atouati.com/posts/2020/03/aks-private-cluster/
-https://itnext.io/create-a-fully-private-aks-infrastructure-with-terraform-e92358f0bf65
-https://docs.microsoft.com/en-us/azure/aks/private-clusters
+* https://atouati.com/posts/2020/03/aks-private-cluster/
+* https://itnext.io/create-a-fully-private-aks-infrastructure-with-terraform-e92358f0bf65
+* https://docs.microsoft.com/en-us/azure/aks/private-clusters
 
 Uptime SLA 
 https://docs.microsoft.com/en-us/azure/aks/uptime-sla

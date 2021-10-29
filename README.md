@@ -26,3 +26,7 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#
 
 AKV2K8s
 https://akv2k8s.io/
+
+Sunbet Calculator
+
+https://mxtoolbox.com/subnetcalculator.aspx
